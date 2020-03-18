@@ -1,0 +1,7 @@
+.list-definition :nth-last-child(2){
+    visibility: hidden;
+}
+
+.list-definition :last-child{       
+    visibility: hidden;
+}
